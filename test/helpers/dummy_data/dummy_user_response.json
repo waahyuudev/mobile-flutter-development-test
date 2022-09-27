@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Yovi",
+    "address": "tangerang",
+    "email": "yovi@gmail.com",
+    "phoneNumber": "08123123",
+    "city": "city 1",
+    "id": "1"
+  },
+  {
+    "name": "name 2",
+    "address": "address 2",
+    "email": "email 2",
+    "phoneNumber": "phoneNumber 2",
+    "city": "city 2",
+    "id": "2"
+  },
+  {
+    "name": "name 3",
+    "address": "address 3",
+    "email": "email 3",
+    "phoneNumber": "phoneNumber 3",
+    "city": "city 3",
+    "id": "3"
+  },
+  {
+    "name": "name 4",
+    "address": "address 4",
+    "email": "email 4",
+    "phoneNumber": "phoneNumber 4",
+    "city": "city 4",
+    "id": "4"
+  }
+]
